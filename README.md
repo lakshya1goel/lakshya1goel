@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lakshya Goel</h1>
 <h3 align="center">Backend Developer | Mobile App Developer | Problem Solver</h3>
-<img align="center" alt="Coding" width="100%" src="https://i.pinimg.com/originals/22/52/e1/2252e1e386123d9b429d85a3de432a7a.gif">
 
 ## 🚀 About Me
 🌱 Exploring Golang, React Native, and Flutter  
@@ -53,7 +52,7 @@
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=lakshya1goel&theme=monokai&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=lakshya1goel&theme=monokai&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=lakshya1goel&theme=monokai&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lakshya1goel&theme=monokai&hide_border=false&layout=compact)
 
