@@ -8,6 +8,7 @@
 📫 Reach me at: **lakshya1234goel@gmail.com**
 
 ## 🌐 Socials
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=white)](https://protfolio-website-ivory.vercel.app/)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lakshya-1-goel/)  
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/lakshya1goel)
 
